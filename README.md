@@ -1,4 +1,4 @@
-# Breast Cancer Diagnosis - ML Project
+# Breast Cancer Diagnosis - DS Project
 
 This project uses logistic regression, random forest, and XGBoost to predict breast cancer diagnosis using the UCI Breast Cancer Wisconsin dataset.
 

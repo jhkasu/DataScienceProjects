@@ -36,6 +36,6 @@ This project uses logistic regression, random forest, and XGBoost to predict bre
 
 ### Author
 
-Jooho Kim – Data Science @ ASU  
+Jooho Kim – Computer Science @ ASU  
 This project is part of my data science portfolio, and is used for interview demonstration purposes.
 
